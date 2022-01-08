@@ -1,0 +1,5 @@
+item {
+    name: "box",
+    id: 1,
+    display_name: "box"
+}
